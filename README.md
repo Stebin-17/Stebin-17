@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Interesting Projects**
 
-- 💬 Ask me about **Data science,Machine Learning,Deep Learning,NLP,Research**
+- 💬 Ask me about **Data science, Machine Learning, Deep Learning, NLP, Research**
 
 - 📫 How to reach me **stebingeo17@gmail.com**
 
