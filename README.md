@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stebin</h1>
 <h3 align="center">Passionate data scientist with a talent for transforming data into actionable insights that drive business success</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*4HQN-5oeXTMK7z3va6k_XQ.gif">
 
 - 🔭 I’m currently working on **AI-IOT Projects**
 
@@ -13,6 +13,9 @@
 - 📫 How to reach me **stebingeo17@gmail.com**
 
 - 📄 Know about my experiences [Click Here](https://drive.google.com/drive/folders/1l1jFjnVFPyDKB1DW6KBPgH4MWRbcU1NX?usp=sharing)
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
