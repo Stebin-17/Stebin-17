@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stebin</h1>
 <h3 align="center">Passionate data scientist with a talent for transforming data into actionable insights that drive business success</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*4HQN-5oeXTMK7z3va6k_XQ.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*H4cHks1eEdrW7Zlz.gif">
 
 - 🔭 I’m currently working on **AI-IOT Projects**
 
