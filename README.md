@@ -1,9 +1,11 @@
-### Hi there 👋
+## Hi Stebin here👋
+**Hello, my name is Stebin George and I am a recent graduate with a Master's degree in Data Science. I am currently working in AI-IoT and I have a strong passion for data analytics and machine learning.
 
-<!--
-**Stebin-17/Stebin-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Throughout my academic and professional career, I have gained experience in various programming languages such as Python, R, and SQL. I have also worked with various data analytics and machine learning tools such as Pandas, NumPy, Scikit-Learn, and TensorFlow.
 
-Here are some ideas to get you started:
+In my free time, I enjoy exploring new technologies and expanding my knowledge in the field of data science. I am excited to contribute to the open-source community and collaborate with other developers to create innovative solutions.
+
+Please feel free to reach out to me if you have any questions or would like to collaborate on a project. Thank you for taking the time to read my introduction!**
 
 - 🔭 I’m currently working on AI-IOT 
 - 🌱 I’m currently learning ...
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
