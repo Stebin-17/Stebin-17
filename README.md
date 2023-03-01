@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **stebingeo17@gmail.com**
 
-- 📄 Know about my experiences [Click Here](https://drive.google.com/drive/folders/1l1jFjnVFPyDKB1DW6KBPgH4MWRbcU1NX?usp=sharing)
+- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1vsfAxM_hoDqrGes0KrtqX_0vdaN6u8vI/view)
 
 ### ABOUT
 
