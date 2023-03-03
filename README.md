@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Stebin</h1>
 <h3 align="center">Passionate data scientist with a talent for transforming data into actionable insights that drive business success</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alansomathew&label=Profile%20views&color=0e75b6&style=flat" alt="alansomathew" /> </p>
+
 <p align="center">
   <a href="https://linkedin.com/in/stebin-george" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/stebin-george" height="30" width="40" /></a>
 <a href="https://www.facebook.com/stebingeorge.taker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/stebingeorge.taker" height="30" width="40" /></a>
