@@ -7,7 +7,7 @@
     
 <p align="center" >
     <a href="https://git.io/typing-svg"><img
-        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1000&color=5DF700&width=435&lines=Hello+Amigos+%2C+Nice+to+see+you;I'm+Stebin+George;Data+Scientist"
+        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1000&color=5DF700&width=435&lines=Hello+Amigos+%2C+Nice+to+see+you;I'm+Stebin+George;Data+Scientist+AI+Engineer"
         alt="Typing SVG" /></a>
   </p>
   
@@ -16,13 +16,6 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Stebin-17&label=Profile%20views&color=0e75b6&style=flat" alt="Stebin-17" /> </p> -->
 
-<p align="center">
-  <a href="https://linkedin.com/in/stebin-george" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/stebin-george" height="30" width="40" /></a>
-<a href="https://www.facebook.com/stebingeorge.taker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/stebingeorge.taker" height="30" width="40" /></a>
-<a href="https://instagram.com/st_ebin_geo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="st_ebin_geo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/watch?v=e6UBLhVe9sE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtu.be/e6ublhve9se" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/stebingeo17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/stebingeo17" height="30" width="40" /></a>
-</p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*cPrF_XMe7U6atYgM.gif">
@@ -55,13 +48,19 @@
 
 </div>
 
-
-
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/stebin-17/stebin-17/main/resources/img/github-contribution-grid-snake.svg"
+  <img  src="https://github.com/stebin-17/stebin-17/blob/output/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
 
+#
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 
-
+<p align="center">
+  <a href="https://linkedin.com/in/stebin-george" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/stebin-george" height="30" width="40" /></a>
+<a href="https://www.facebook.com/stebingeorge.taker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/stebingeorge.taker" height="30" width="40" /></a>
+<a href="https://instagram.com/st_ebin_geo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="st_ebin_geo" height="30" width="40" /></a>
+<a href="https://www.youtube.com/watch?v=e6UBLhVe9sE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtu.be/e6ublhve9se" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/stebingeo17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/stebingeo17" height="30" width="40" /></a>
+</p>
