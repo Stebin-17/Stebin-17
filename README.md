@@ -11,8 +11,8 @@
         alt="Typing SVG" /></a>
   </div>
   
-<h1 align="center">Hi 👋, I'm Stebin</h1>
-<h3 align="center">Passionate data scientist with a talent for transforming data into actionable insights that drive business success</h3>
+<!-- <h1 align="center">Hi 👋, I'm Stebin</h1>
+<h3 align="center">Passionate data scientist with a talent for transforming data into actionable insights that drive business success</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Stebin-17&label=Profile%20views&color=0e75b6&style=flat" alt="Stebin-17" /> </p>
 
