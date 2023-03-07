@@ -1,7 +1,12 @@
 <img
     src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+     
+![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)
+
+<img
+    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
     
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> CONNECT WITH ME
 
 <p align="center">
   <a href="https://linkedin.com/in/stebin-george" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/stebin-george" height="30" width="40" /></a>
@@ -11,10 +16,6 @@
 <a href="https://www.hackerrank.com/stebingeo17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/stebingeo17" height="30" width="40" /></a>
 </p>
 
-<img
-    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-  
-![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)
 
 <img
     src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -68,7 +69,7 @@
 <img
     src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<h3 align="center">Languages</h3>
+<h3 align="center">LANGUAGES</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -79,7 +80,7 @@
     
 </p>
 
-<h3 align="center">Databases</h3>
+<h3 align="center">DATABASES</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -104,13 +105,13 @@
 </p>
 
 
-<h3 align="center">Deployment</h3>
+<h3 align="center">DEPLOYMENT</h3>
     <p align="center">
      <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
      <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
     </p>
 
-<h3 align="center">IDEs/Editors</h3>
+<h3 align="center">IDEs/EDITORS</h3>
 <p align="center">
      <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
      <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
@@ -131,7 +132,7 @@
     src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
     
 <div align="center">
-<h3 align="center" style="margin: 5px 10px;">📊 GitHub Stats:</h3>
+<h3 align="center" style="margin: 5px 10px;">📊 GITHUB STATS:</h3>
 
 [![](https://github-readme-stats.vercel.app/api?username=stebin-17&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/stebin-17)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=stebin-17&theme=material-palenight)](https://github.com/stebin-17)
