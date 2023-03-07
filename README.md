@@ -17,7 +17,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Stebin-17&label=Profile%20views&color=0e75b6&style=flat" alt="Stebin-17" /> </p> -->
 
 
-[![Spotify](https://novatorem-git-master-stebin-17.vercel.app/api/spotify)](https://open.spotify.com/user/Stebingeo)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/Stebingeo)
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*cPrF_XMe7U6atYgM.gif">
