@@ -1,6 +1,19 @@
 <img
     src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
     
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+
+<p align="center">
+  <a href="https://linkedin.com/in/stebin-george" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/stebin-george" height="30" width="40" /></a>
+<a href="https://www.facebook.com/stebingeorge.taker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/stebingeorge.taker" height="30" width="40" /></a>
+<a href="https://instagram.com/st_ebin_geo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="st_ebin_geo" height="30" width="40" /></a>
+<a href="https://www.youtube.com/watch?v=e6UBLhVe9sE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtu.be/e6ublhve9se" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/stebingeo17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/stebingeo17" height="30" width="40" /></a>
+</p>
+
+<img
+    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+  
 ![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)
 
 <img
@@ -52,25 +65,8 @@
 
 **Hello, my name is Stebin George and I am a recent graduate with a Master's degree in Data Science. I am currently working in AI-IoT and I have a strong passion for data analytics and machine learning.Throughout my academic and professional career, I have gained experience in various programming languages such as Python, R, and SQL. I have also worked with various data analytics and machine learning tools such as Pandas, NumPy, Scikit-Learn, and TensorFlow.In my free time, I enjoy exploring new technologies and expanding my knowledge in the field of data science. I am excited to contribute to the open-source community and collaborate with other developers to create innovative solutions.**
 
-
-
 <img
     src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-    
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
-
-<p align="center">
-  <a href="https://linkedin.com/in/stebin-george" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/stebin-george" height="30" width="40" /></a>
-<a href="https://www.facebook.com/stebingeorge.taker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/stebingeorge.taker" height="30" width="40" /></a>
-<a href="https://instagram.com/st_ebin_geo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="st_ebin_geo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/watch?v=e6UBLhVe9sE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtu.be/e6ublhve9se" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/stebingeo17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/stebingeo17" height="30" width="40" /></a>
-</p>
-
-<img
-    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
 
 <h3 align="center">Languages</h3>
 
