@@ -56,9 +56,9 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">📊 GitHub Stats:</h2>
 
-[![](https://github-readme-stats.vercel.app/api?username=Stebin-17&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/alansomathew)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=stebin-17&theme=material-palenight)](https://github.com/alansomathew)
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stebin-17&langs_count=8&theme=algolia&layout=compact) ](https://github.com/alansomathew)
+[![](https://github-readme-stats.vercel.app/api?username=stebin-17&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/stebin-17)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=stebin-17&theme=material-palenight)](https://github.com/stebin-17)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stebin-17&langs_count=8&theme=algolia&layout=compact) ](https://github.com/stebin-17)
 
 </div>
 
