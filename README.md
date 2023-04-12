@@ -60,7 +60,7 @@
 
 - 📫 How to reach me **stebingeo17@gmail.com**
 
-- 📄 Personal Portfolio [Click Here](https://stebin-17.github.io/Portfolio/)
+- 📄 Personal Portfolio **[Click Here](https://stebin-17.github.io/Portfolio/)**
 
 ### MORE INFO:
 
